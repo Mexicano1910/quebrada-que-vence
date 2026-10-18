@@ -8,5 +8,6 @@ window.QV = {
     "Rua Eva, Perom, 13, Conjunto Habitacional Fazenda do Carmo, São Paulo",
   // Cole aqui a URL do Web App do Google Apps Script (ver api/Code.gs).
   // Enquanto estiver vazio, o formulário roda em modo de teste (guarda no navegador).
-  scriptUrl: "",
+  scriptUrl:
+    "https://script.google.com/macros/s/AKfycbw2rJc3ZMMfxjJ1fsDuiJGgl9s1q1SjFtYi0qzFRCgie8c98klyx8NvZg4EH4vmQBHTeA/exec",
 };
